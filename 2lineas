@@ -3,9 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "color": "#ff0000"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -22,9 +20,7 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "color": "#00ff00"
-      },
+      "properties": {},
       "geometry": {
         "type": "LineString",
         "coordinates": [
