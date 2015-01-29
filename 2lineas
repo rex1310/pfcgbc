@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "party": "Republican"
+        "color": "#ff0000"
       },
       "geometry": {
         "type": "LineString",
@@ -24,6 +25,7 @@
       "type": "Feature",
       "properties": {
         "party": "Democrat"
+        "color": "#00ff00"
       },
       "geometry": {
         "type": "LineString",
