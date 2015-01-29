@@ -4,7 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "party": "Republican"
         "color": "#ff0000"
       },
       "geometry": {
@@ -24,7 +23,6 @@
     {
       "type": "Feature",
       "properties": {
-        "party": "Democrat"
         "color": "#00ff00"
       },
       "geometry": {
