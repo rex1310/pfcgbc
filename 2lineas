@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "party": "Republican"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20,7 +22,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "party": "Democrat"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
