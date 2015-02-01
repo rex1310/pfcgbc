@@ -4,6 +4,9 @@
     {
       "type": "Feature",
       "properties": {},
+      "stylers": [
+      { "hue": "#ffdd00" }
+    ]
       "geometry": {
         "type": "LineString",
         "coordinates": [
