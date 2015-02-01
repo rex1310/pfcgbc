@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "315",
+      "type": "Feature",
       "properties": {},
       "geometry": {
         "type": "LineString",
