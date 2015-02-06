@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "1", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1311935, 37.981992, 0.0 ], [ -1.1307375, 37.9820459, 0.0 ], [ -1.1306021, 37.9815755, 0.0 ], [ -1.1307094, 37.9815575, 0.0 ], [ -1.1308408, 37.9815184, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "2", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1309668, 37.9813028, 0.0 ], [ -1.1308274, 37.9809804, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "3", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1307952, 37.9808937, 0.0 ], [ -1.1306249, 37.9804339, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "4", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1310299, 37.9814941, 0.0 ], [ -1.1312579, 37.9814666, 0.0 ], [ -1.1314054, 37.9819772, 0.0 ] ] } }
+]
+}
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "1", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1316414, 37.9825015, 0.0 ], [ -1.1315663, 37.9823408, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "2", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1315221, 37.9822214, 0.0 ], [ -1.1314912, 37.982159, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "3", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1312632, 37.9821167, 0.0 ], [ -1.1307482, 37.9821727, 0.0 ], [ -1.1303902, 37.982103, 0.0 ], [ -1.1303419, 37.9818429, 0.0 ], [ -1.1304384, 37.9818345, 0.0 ], [ -1.1303848, 37.9816252, 0.0 ], [ -1.1302829, 37.981621, 0.0 ], [ -1.1302239, 37.9817055, 0.0 ], [ -1.1300468, 37.9816527, 0.0 ], [ -1.1300361, 37.981604, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "4", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1314496, 37.9825152, 0.0 ], [ -1.1312994, 37.9821495, 0.0 ], [ -1.1310017, 37.9822002, 0.0 ], [ -1.1310285, 37.982382, 0.0 ], [ -1.1311573, 37.9824582, 0.0 ], [ -1.1312512, 37.982492, 0.0 ], [ -1.1313236, 37.9825195, 0.0 ], [ -1.1313772, 37.9825385, 0.0 ], [ -1.131455, 37.98253, 0.0 ] ] } }
+]
+}
