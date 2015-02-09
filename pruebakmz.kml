@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>pruebakmz</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>134</name>
+			<Placemark>
+				<styleUrl>#line-000000-1</styleUrl>
+				<name>Plaza Camachos</name>
+				<ExtendedData>
+					<Data name='2015'>
+						<value>2500</value>
+					</Data>
+					<Data name='2014'>
+						<value>2034</value>
+					</Data>
+					<Data name='2013'>
+						<value>1900</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Aquí puede ver la evolución de los PMM a lo largo de los últimos años<br><br>2015: 2500<br>2014: 2034<br>2013: 1900]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-1.1311935,37.981992,0.0 -1.1307375,37.9820459,0.0 -1.1306021,37.9815755,0.0 -1.1307094,37.98155750000001,0.0 -1.1308408,37.9815184,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-000000-1</styleUrl>
+				<name>2</name>
+				<ExtendedData>
+					<Data name='2015'>
+						<value></value>
+					</Data>
+					<Data name='2014'>
+						<value></value>
+					</Data>
+					<Data name='2013'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[2015: <br>2014: <br>2013: ]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-1.1309668,37.9813028,0.0 -1.1308274,37.9809804,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-000000-1</styleUrl>
+				<name>3</name>
+				<ExtendedData>
+					<Data name='2015'>
+						<value></value>
+					</Data>
+					<Data name='2014'>
+						<value></value>
+					</Data>
+					<Data name='2013'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[2015: <br>2014: <br>2013: ]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-1.1307952,37.9808937,0.0 -1.1306249,37.9804339,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-000000-1</styleUrl>
+				<name>4</name>
+				<ExtendedData>
+					<Data name='2015'>
+						<value></value>
+					</Data>
+					<Data name='2014'>
+						<value></value>
+					</Data>
+					<Data name='2013'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[2015: <br>2014: <br>2013: ]]></description>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-1.1310299,37.9814941,0.0 -1.1312579,37.9814666,0.0 -1.1314054,37.9819772,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>233</name>
+			<Placemark>
+				<styleUrl>#line-3F5BA9-1</styleUrl>
+				<name>1</name>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-1.1316414000000001,37.9825015,0.0 -1.1315663,37.9823408,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-3F5BA9-1</styleUrl>
+				<name>2</name>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-1.1315221,37.9822214,0.0 -1.1314912,37.982159,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-3F5BA9-1</styleUrl>
+				<name>3</name>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-1.1312632,37.9821167,0.0 -1.1307482,37.9821727,0.0 -1.1303902,37.982103,0.0 -1.1303419,37.9818429,0.0 -1.1304384,37.9818345,0.0 -1.1303848,37.9816252,0.0 -1.1302829,37.981621,0.0 -1.1302239,37.9817055,0.0 -1.1300468,37.9816527,0.0 -1.1300361,37.981604,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#line-3F5BA9-1</styleUrl>
+				<name>Calle Perez Canovas</name>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-1.1314496,37.9825152,0.0 -1.1312994,37.9821495,0.0 -1.1310017,37.9822002,0.0 -1.1310285,37.982382,0.0 -1.1311573,37.9824582,0.0 -1.1312512,37.982492,0.0 -1.1313236,37.9825195,0.0 -1.1313772,37.9825385,0.0 -1.131455,37.98253,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-959-D698AD</styleUrl>
+				<name>Calle Clementes</name>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sergio_Ramos_Euro_2012_vs_France_01.jpg/250px-Sergio_Ramos_Euro_2012_vs_France_01.jpg</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[2008 - 799€]]></description>
+				<Point>
+					<coordinates>-1.1313075,37.9813144,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#poly-9FC3FF-0-145</styleUrl>
+				<name>Polígono 7</name>
+				<ExtendedData>
+				</ExtendedData>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-1.1301515,37.9813419,0.0 -1.1301728999999998,37.981333400000004,0.0 -1.1304840000000003,37.9810036,0.0 -1.130079,37.980936,0.0 -1.1298349,37.9811495,0.0 -1.1299153999999998,37.9813229,0.0 -1.1301219000000002,37.9813377,0.0 -1.1301515,37.9813419,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='icon-959-D698AD'>
+			<IconStyle>
+				<color>ffAD98D6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-000000-1'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3F5BA9-1'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>1</width>
+			</LineStyle>
+		</Style>
+		<Style id='poly-9FC3FF-0-145'>
+			<LineStyle>
+				<color>ffFFC39F</color>
+				<width>0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>91FFC39F</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>
